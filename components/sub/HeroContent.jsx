@@ -24,7 +24,7 @@ const HeroContent = () => {
         >
           <SparklesIcon className="text-[#b49bff] mr-[10px] h-5 w-5" />
           <h1 className="Welcome-text text-[13px]">
-            Game Developer and FullStack Web Developer
+            You Can't Defeat Me At My Own Game.
           </h1>
         </motion.div>
 
@@ -33,11 +33,13 @@ const HeroContent = () => {
           className="flex flex-col gap-6 mt-6 text-6xl font-bold text-white max-w-[600px] w-auto h-auto"
         >
           <span>
-            IzanamiiDevv.<br>
+            IzanamiiDevv.
+            <br>
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">
               {" "}
               is the best{" "}
-            </span><br>
+            </span>
+            <br>
             GameDeveloper
           </span>
         </motion.div>
