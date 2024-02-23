@@ -34,12 +34,10 @@ const HeroContent = () => {
         >
           <span>
             IzanamiiDevv.
-            <br>
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">
               {" "}
               is the best{" "}
             </span>
-            <br>
             GameDeveloper
           </span>
         </motion.div>
