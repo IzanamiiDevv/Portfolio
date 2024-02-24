@@ -34,12 +34,12 @@ const HeroContent = () => {
         >
           <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anta&size=50&pause=1000&color=FFFFFF&random=false&width=435&height=75&lines=Hi+There!;I'm+IzanamiiDevv.;I'm+from+Phillipines!" alt="Typing SVG" /></a>
           <span>
-            IzanamiiDevv.<br/>
+            Providing
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">
               {" "}
-              is the best{" "}
+              the best{" "}
             </span>
-            GameDeveloper
+            Web and Game Projects
           </span>
         </motion.div>
 
