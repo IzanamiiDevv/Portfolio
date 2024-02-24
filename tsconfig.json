@@ -22,6 +22,6 @@
       "@/*": ["./*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "components/main/Projects.jsx", "components/main/StarBackground.jsx", "components/main/Skills.jsx", "components/main/Encryption.jsx", "components/main/Footer.jsx", "components/main/Navbar.jsx", "components/sub/HeroContent.jsx"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "components/main/Projects.jsx", "components/main/StarBackground.jsx", "components/main/Skills.jsx", "components/main/Encryption.jsx", "components/main/Footer.jsx", "components/main/Navbar.jsx", "components/sub/HeroContent.jsx", "components/sub/SkillText.jsx"],
   "exclude": ["node_modules"]
 }
