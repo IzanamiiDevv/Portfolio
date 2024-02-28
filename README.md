@@ -4,7 +4,7 @@ Welcome to my GitHub portfolio! This repository showcases my projects and provid
 
 ## About Me
 
-I am [Your Name], a passionate [your field or profession] with a keen interest in [specific interests or technologies]. With a background in [your education or relevant experience], I am dedicated to [your mission or goal].
+I am Rafael Luis Oli, a passionate Web and Game Developer with a keen interest in [specific interests or technologies]. With a background in [your education or relevant experience], I am dedicated to [your mission or goal].
 
 ## Projects
 
