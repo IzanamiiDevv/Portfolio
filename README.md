@@ -1,4 +1,4 @@
-# IzanamiiDevv's Portfolio
+# Izanami's Portfolio
 
 Welcome to my GitHub portfolio! This repository showcases my projects and provides an overview of my skills and experiences.
 
